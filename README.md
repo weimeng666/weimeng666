@@ -1,4 +1,4 @@
-![weimeng666](https://github-readme-stats.vercel.app/api?username=weimeng666&show_icons=true&theme=cobalt)
+![weimeng666](https://github-readme-stats.vercel.app/api?username=weimeng666&show_icons=true&theme=gruvbox)
 
 [Github page](https://weime.ng/)
 
